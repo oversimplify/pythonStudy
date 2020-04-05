@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 from selenium import webdriver
 
 import pickle
@@ -31,3 +32,6 @@ print(name)
 print(address)
 print(ssn)
 print(phone)
+=======
+import
+>>>>>>> 4e2f85507732a37207c614eeb6f91e2e9ca85d1c
